@@ -8,6 +8,5 @@ Create a simple app to show Starwars characters querying API for that effect:
 1. Clone the repository
 2. Run: `yarn install`
 3. If necessary: `yarn add next@latest react@latest react-dom@latest`
-4. `yarn dev` 
-5. teste 
+4. `yarn dev`
   
