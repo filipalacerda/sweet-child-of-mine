@@ -3,7 +3,8 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint"
+        "lint": "next lint",
+        "test": "jest"
     },
     "devDependencies": {
         "@eslint/js": "^9.31.0",
