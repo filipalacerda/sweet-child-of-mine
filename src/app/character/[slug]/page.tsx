@@ -1,3 +1,4 @@
+import React from 'react'
 import styles from '../character.module.css'
 
 export default async function CharacterPage({params,}:{params: Promise<{slug: string}>}){

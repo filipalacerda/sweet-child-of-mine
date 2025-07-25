@@ -1,9 +1,10 @@
 import Link from "next/link"
-
+import React from "react";
 const CHTRID = 5;
 
 
 export default function Page(){
+    
     return (
         <div>
             <h1>StarWars character table</h1>
