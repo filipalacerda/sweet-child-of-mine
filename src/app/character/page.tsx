@@ -1,5 +1,6 @@
-export default function Blog(){
+import React from "react"
+export default function Character(){
     return (
-        <h2>This is Blog Page</h2>
+        <h2>This is Character Page</h2>
     )
 }
